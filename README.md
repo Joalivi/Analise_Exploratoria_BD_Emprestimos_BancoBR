@@ -1,6 +1,6 @@
 <html>
     <head>
-        <h1> Desafio para o processo seletivo EloGroup: AVALIAÇÃO DE CLIENTES DE UM BANCO </h1>
+        <h1> Desafio para o processo seletivo EloGroup: AVALIAÇÃO DE EMPRÉSTIMOS DE UM BANCO </h1>
     </head>
     <br/>
     <br/>
